@@ -9,8 +9,8 @@
 [![discord](https://discordapp.com/api/guilds/242665251487612928/embed.png?style=banner2)](https://discord.gg/VwKwd9f)
 <p align="left">
 <a href="https://twitter.com/ob02cgth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ob02cgth" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ob02cgth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ob02cgth" height="30" width="40" /></a>
-<a href="https://fb.com/sonsiri saibut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sonsiri saibut" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11531231/ob02cgth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ob02cgth" height="30" width="40" /></a>
+<a href="https://fb.com/OB02CGTH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sonsiri saibut" height="30" width="40" /></a>
 <a href="https://instagram.com/ob02cgth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ob02cgth" height="30" width="40" /></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
