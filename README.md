@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px">Hi~ 🤪, I'm Sonsiri Saiut(OB)</h1>
+<h1 align="center"><img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px">Hi~ 🤪, I'm Sonsiri Saibut(OB)</h1>
 <h3 align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> developer from Thailand</h3>
 
 - 📫 How to reach me **sornsiri1208@gmail.com**
