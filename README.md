@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px">Hi~ 🤪, I'm Sonsiri Saiut(OB)</h1>
-<h3 align="center">A developer from Thailand</h3>
+<h3 align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">A developer from Thailand</h3>
 
 - 📫 How to reach me **sornsiri1208@gmail.com**
 <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
@@ -11,7 +11,6 @@
 <a href="https://twitter.com/ob02cgth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ob02cgth" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ob02cgth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ob02cgth" height="30" width="40" /></a>
 <a href="https://instagram.com/ob02cgth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ob02cgth" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/ob02cgth"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify" height="30" width="40" /></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
 
