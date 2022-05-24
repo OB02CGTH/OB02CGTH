@@ -1,5 +1,4 @@
 <h1 align="center">Hi~ 🤪, I'm Sonsiri Saiut(OB)</h1>
-<p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 <h3 align="center">A developer from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ob02cgth&label=Profile%20views&color=0e75b6&style=flat" alt="ob02cgth" /> </p>
