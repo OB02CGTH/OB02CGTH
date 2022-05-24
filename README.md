@@ -4,8 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ob02cgth&label=Profile%20views&color=0e75b6&style=flat" alt="ob02cgth" /> </p>
 
 - 📫 How to reach me **sornsiri1208@gmail.com**
+[![discord](https://discordapp.com/api/guilds/242665251487612928/embed.png?style=banner2)](https://discord.gg/VwKwd9f)
 
 <h3 align="left">Connect with me:</h3>
+
+[![discord](https://discordapp.com/api/guilds/242665251487612928/embed.png?style=banner2)](https://discord.gg/VwKwd9f)
 <p align="left">
 <a href="https://twitter.com/ob02cgth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ob02cgth" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ob02cgth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ob02cgth" height="30" width="40" /></a>
