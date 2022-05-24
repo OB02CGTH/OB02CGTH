@@ -1,4 +1,4 @@
-<h1 align="center">Hi~ 🤪, I'm Sonsiri Saiut(OB)</h1>
+<h1 align="center"><img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px">Hi~ 🤪, I'm Sonsiri Saiut(OB)</h1>
 <h3 align="center">A developer from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ob02cgth&label=Profile%20views&color=0e75b6&style=flat" alt="ob02cgth" /> </p>
