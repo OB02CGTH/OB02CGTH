@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ob02cgth&label=Profile%20views&color=0e75b6&style=flat" alt="ob02cgth" /> </p>
 
 - 📫 How to reach me **sornsiri1208@gmail.com**
-[![discord](https://discordapp.com/api/guilds/242665251487612928/embed.png?style=banner2)](https://discord.gg/VwKwd9f)
 
 <h3 align="left">Connect with me:</h3>
 
